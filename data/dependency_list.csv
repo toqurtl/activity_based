@@ -1,0 +1,13 @@
+predecessor,successor,relationship,lagtime
+1,2,FS,0
+1,3,FS,0
+1,4,FS,0
+2,5,FS,0
+3,5,FS,0
+3,6,FS,0
+4,7,FS,0
+5,8,FS,0
+6,9,FS,0
+7,9,FS,0
+8,10,FS,0
+9,10,FS,0
